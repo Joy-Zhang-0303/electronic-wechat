@@ -1,5 +1,5 @@
 <img src="assets/icon.png" alt="logo" height="120" align="right" />
-
+# Confirmed Working Well on 2020-03-26
 # Electronic WeChat
 
 *A better WeChat on macOS and Linux. Built with [Electron](https://github.com/atom/electron).*
